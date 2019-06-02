@@ -1,0 +1,41 @@
+
+game_objects.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gingerbread
+  rotate: false
+  xy: 2, 20
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+butcher_knife
+  rotate: false
+  xy: 74, 34
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: 1
+kitchen_knife
+  rotate: false
+  xy: 151, 54
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: 2
+pan
+  rotate: false
+  xy: 151, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+wine_glass
+  rotate: false
+  xy: 203, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

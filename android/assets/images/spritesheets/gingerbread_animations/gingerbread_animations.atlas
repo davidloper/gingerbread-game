@@ -1,0 +1,158 @@
+
+gingerbread_animations.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+top_collision/frame
+  rotate: false
+  xy: 2, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 0
+top_collision/frame
+  rotate: false
+  xy: 74, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 1
+top_collision/frame
+  rotate: false
+  xy: 146, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 2
+top_collision/frame
+  rotate: false
+  xy: 218, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 3
+top_collision/frame
+  rotate: false
+  xy: 290, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 4
+top_collision/frame
+  rotate: false
+  xy: 362, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 5
+
+gingerbread_animations2.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_right/frame
+  rotate: false
+  xy: 2, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 0
+walk_right/frame
+  rotate: false
+  xy: 74, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 1
+walk_right/frame
+  rotate: false
+  xy: 146, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 2
+walk_right/frame
+  rotate: false
+  xy: 218, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 3
+walk_right/frame
+  rotate: false
+  xy: 290, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 4
+walk_right/frame
+  rotate: false
+  xy: 290, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 5
+walk_right/frame
+  rotate: false
+  xy: 290, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 6
+
+gingerbread_animations3.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_left/frame
+  rotate: false
+  xy: 2, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 0
+walk_left/frame
+  rotate: false
+  xy: 74, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 1
+walk_left/frame
+  rotate: false
+  xy: 146, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 2
+walk_left/frame
+  rotate: false
+  xy: 218, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 3
+walk_left/frame
+  rotate: false
+  xy: 290, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 4
+walk_left/frame
+  rotate: false
+  xy: 290, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 5
+walk_left/frame
+  rotate: false
+  xy: 290, 2
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: 6
